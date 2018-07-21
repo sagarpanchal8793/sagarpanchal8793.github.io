@@ -79,10 +79,10 @@ a {
     transition: all 0.2s linear;
 }
 
-    a:hover {
-        color: #DF3927;
-        text-decoration: none;
-    }
+a:hover {
+    color: #DF3927;
+    text-decoration: none;
+}
 
 .btn {
     border: 0px;
@@ -1150,4 +1150,9 @@ footer {
 
 .move_left{
     margin-left: 8%;
+}
+
+.Github_a_tag a{
+    color: #149dcc;
+    text-decoration: none;
 }
